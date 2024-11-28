@@ -1,0 +1,5 @@
+print("Prajwal Rama Naik ")
+print("23BTIT137")
+sentence = input("Enter a sentence: ")
+word_count = len(sentence.split())
+print("Number of words:", word_count)
