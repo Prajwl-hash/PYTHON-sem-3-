@@ -1,0 +1,3 @@
+What is the capital of France? (Answer :paris)
+What is the color of the sky? (Answer :Blue)
+What is 2 + 2  (Answer :4)
