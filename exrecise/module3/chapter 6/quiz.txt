@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 What is the capital of France? (Answer :paris)
 What is the color of the sky? (Answer :Blue)
 What is 2 + 2  (Answer :4)
+=======
+What is the capital of France? (Answer :paris)
+What is the color of the sky? (Answer :Blue)
+What is 2 + 2  (Answer :4)
+>>>>>>> c965dbf5152de176c2dbd9448cc71dbd01538425
