@@ -1,4 +1,5 @@
-absolute_path = r'D:\python\exrecise\module3\chapter 6\1.txt'
+
+absolute_path = r'\wallpaper\new.txt'
 with open (absolute_path,'r') as file:
     content = file.read()
     print(content)

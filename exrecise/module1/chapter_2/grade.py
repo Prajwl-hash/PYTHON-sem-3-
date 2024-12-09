@@ -1,5 +1,6 @@
 # Grade Calculator
-
+print("NAME : PRAJWAL RAMA NAIK")
+print ("NUMBER : 23BTIT137")
 score = int (input("Enter your score (0-100):"))
 if score >= 90:
     print("Grade:A")
